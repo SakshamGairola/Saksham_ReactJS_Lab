@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Splitwise clone
+
+This application is a scaled down version of a popular app called splitwise where you can keep track of expenses in a group
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
